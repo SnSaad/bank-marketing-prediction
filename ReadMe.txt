@@ -1,6 +1,9 @@
-Context
+# bank-marketing
+
+## Context
 Find the best strategies to improve for the next marketing campaign. How can the financial institution have a greater effectiveness for future marketing campaigns? In order to answer this, we have to analyze the last marketing campaign the bank performed and identify the patterns that will help us find conclusions in order to develop future strategies.
 
+## Insights
 When considering features for a banking campaign, especially for predicting whether a customer will subscribe to a product or service (e.g., a term deposit), you want to focus on features that are likely to have a significant impact on the outcome. Here's a brief explanation of each feature we mentioned and whether it should be considered:
 
 Age: Age can be an important factor, as different age groups may have varying financial needs and preferences.
